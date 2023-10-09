@@ -1,6 +1,6 @@
 #https://github.com/calamares/calamares/releases
 
-pkgname=arco-calamares-git
+pkgname=payraos-calamares-git
 _pkgname=calamares
 pkgver=3.3.0.r10513.d8a03bb34
 pkgrel=10
